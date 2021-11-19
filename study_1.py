@@ -17,5 +17,5 @@ elif money == total_price:
     print('Dompet Anda kosong')
 
 else:
-    print('Uang Anda tidak mencukupi')
+    print('Uang Anda tidak mencukupi pembelian')
     print('Anda tidak dapat membeli apel sebanyak itu')
